@@ -11,7 +11,7 @@ The maximum frequency range is logarithmic 30Hz-16.6KHz with the current firmwar
 
 There are separate knobs and CV inputs for the frequency and resonance of each filter.
 The resulting control voltages are read by an Atmel ATmega328 microcontroller that
-is i turn programming the max261 filter IC. It also provides the clock signals to
+is programming the max261 filter IC. It also provides the clock signals to
 the filter sections. 
 
 The output of filter A is connected to the input of filter B if no cables are inserted.
