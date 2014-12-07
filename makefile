@@ -1,4 +1,8 @@
 
+### Project built with AVR gcc 4.3.3, Crosspack 20100115 on Mac OSX. 
+### AVR programmer used: AVR ISPmkII.
+
+
 ### Project specs
 PROJNAME = max2
 
