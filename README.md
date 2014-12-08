@@ -6,7 +6,7 @@ for audio processing in a standard 16HP Eurorack synth module.
 The IC is a dual filter and each filter is independently controlled using front
 panel knobs and control voltage inputs. The filter mode selection buttons provide
 these filter types in each filter section:
-Low pass, Band pass, High pass, Notch (Lowpass+Bandpass mixed).
+Low pass, band pass, high pass, notch (lowpass+highpass mixed).
 The maximum frequency range is logarithmic 30Hz-16.6KHz with the current firmware.
 
 There are separate knobs and CV inputs for the frequency and resonance of each filter.
